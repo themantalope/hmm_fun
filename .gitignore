@@ -1,0 +1,5 @@
+# don't copy data
+data/*
+
+# don't track ipynb_checkpoints
+*ipynb_checkpoint*
